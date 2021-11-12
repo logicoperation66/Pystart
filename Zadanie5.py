@@ -17,3 +17,5 @@ if birth_year % 4 == 0 and (birth_year % 100 != 0 or birth_year % 400 == 0):
     print(f"Rok {birth_year} jest przestępny")
 else:
     print(f"Rok {birth_year} Jest nieprzestępny.")
+
+
